@@ -1,4 +1,4 @@
-<img width="527" height="318" alt="image" src="https://github.com/user-attachments/assets/195d65ae-719a-4901-bb5c-dd6e701ed37b" /># KPX 전력수요 단기부하예측 MLOps
+# KPX 전력수요 단기부하예측 MLOps
 
 KPX 전력수요 데이터를 기반으로, 향후 6시간의 수요를 예측하고 그 결과를 저장·평가·시각화하는 MLOps 파이프라인을 설계한 프로젝트입니다.
 
